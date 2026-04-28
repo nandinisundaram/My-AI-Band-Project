@@ -21,4 +21,7 @@ Bring it all together.
 Depth of knowledge in the field of formal music will aid in creating an app with wider options to create lr have control over the kind of music created.
 
 ## Acknowledgments
-Self.
+Self
+
+## Credits
+Elements of AI course
